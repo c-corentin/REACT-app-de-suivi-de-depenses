@@ -3,7 +3,9 @@
 
 Application simple utilisant des hooks et l'API de contexte
 
-Gestion d'utilisateurs et de DB en cours
+## MERM
+
+WIP
 
 ## Utilisation
 ```
