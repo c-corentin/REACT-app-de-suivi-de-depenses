@@ -5,9 +5,9 @@ const morgan = require('morgan');
 
 // test
 
-dotenv.config({path:'./config/config.env'});
+dotenv.config({path: './config/config.env' });
 
-const transactions = require('./routes/transactions');
+const transactions = require ('./routes/transactions');
 
 const app = express();
 
